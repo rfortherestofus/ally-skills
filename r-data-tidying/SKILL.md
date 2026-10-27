@@ -5,7 +5,7 @@ description: Use when importing and tidying raw data (Excel, CSV, API dumps) int
 
 # R Data Tidying
 
-Guidance for turning messy source data (especially Excel workbooks) into a set of clean, tidy, saved tables. Pairs with `r-guidance` (which covers general tidyverse style). This skill is about the *shape* and *organization* of the output, not just the syntax.
+Guidance for turning messy source data (especially Excel workbooks) into a set of clean, tidy, saved tables. For general tidyverse style, which this skill doesn't cover, see sj-io's [Modern R Development Guide](https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad). You don't need it to use this skill. This skill is about the *shape* and *organization* of the output, not just the syntax.
 
 ## Core mindset
 

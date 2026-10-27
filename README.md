@@ -12,3 +12,7 @@ ally::install_skill("rfortherestofus/ally-skills/r-data-tidying")
 ## Skills
 
 - `r-data-tidying`: turn messy raw data (Excel, CSV, API dumps) into a set of tidy tables saved in `data-clean/`.
+
+## See also
+
+`r-data-tidying` is about the shape of tidy data, not R style. For general tidyverse style, see sj-io's [Modern R Development Guide](https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad).
